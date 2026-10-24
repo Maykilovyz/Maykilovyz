@@ -9,7 +9,7 @@
 ### `sobre_mim.ino`
 
 ```cpp
-// Belém, PA · Estácio Belém · 2º semestre
+// Belém, PA · Estácio Belém · 2º semestre Eng. da computação
 
 struct Foco {
   const char* hardware = "ESP32, Arduino, sensores";
