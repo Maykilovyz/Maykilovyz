@@ -8,9 +8,6 @@
 
 
 
-<p align="center">
-  <img src="assets/divider.gif" width="800" alt="">
-</p>
 
 ### `em_destaque.log`
 
