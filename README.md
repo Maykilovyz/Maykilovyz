@@ -6,28 +6,7 @@
   <img src="assets/divider.gif" width="800" alt="">
 </p>
 
-### `sobre_mim.ino`
 
-```cpp
-// Belém, PA · Estácio Belém · 2º semestre Eng. da computação
-
-struct Foco {
-  const char* hardware = "ESP32, Arduino, sensores";
-  const char* software = "C++, web (HTML/CSS/JS/PHP)";
-  const char* ia       = "modelos locais com Ollama";
-};
-
-void setup() {
-  Serial.begin(115200);
-  Serial.println("olá, mundo");
-}
-
-void loop() {
-  aprender();
-  prototipar();
-  documentar();   // o que funciona e o que quebrou
-}
-```
 
 <p align="center">
   <img src="assets/divider.gif" width="800" alt="">
