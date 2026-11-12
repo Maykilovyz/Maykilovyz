@@ -9,20 +9,6 @@
 
 
 
-### `em_destaque.log`
-
-<p align="center">
-  <img src="assets/pulse.gif" width="800" alt="Animação: ESP32 ligado a um MPU6050, osciloscópio mostra o sinal de aceleração, pico acima do limiar, status muda para queda detectada e depois alerta enviado">
-</p>
-
-**Detector de queda para idosos.** O ESP32 lê a aceleração do MPU6050 e procura o padrão de uma queda: queda livre, impacto acima do limiar e depois imobilidade. Quando o padrão se completa, ele envia um alerta.
-
-<sub>* A animação é ilustrativa. Não mostra leitura real do sensor.</sub>
-
-<p align="center">
-  <img src="assets/divider.gif" width="800" alt="">
-</p>
-
 ### `serial_monitor`
 
 <table>
